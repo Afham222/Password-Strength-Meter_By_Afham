@@ -88,5 +88,5 @@ def main():
     💡 *Tip:* Use a mix of uppercase, lowercase, numbers, and special characters for a secure password!
     """)
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
